@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="first program">
-      <change beforePath="$PROJECT_DIR$/src/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstProgram.java" afterDir="false" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="variables in jave">
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697643585062</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="variables in jave">
+      <option name="closed" value="true" />
+      <created>1697643758217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697643758217</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new java training" />
     <MESSAGE value="object and classes" />
     <MESSAGE value="first program" />
-    <option name="LAST_COMMIT_MESSAGE" value="first program" />
+    <MESSAGE value="variables in jave" />
+    <option name="LAST_COMMIT_MESSAGE" value="variables in jave" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
