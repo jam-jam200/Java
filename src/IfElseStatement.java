@@ -16,7 +16,7 @@ public class IfElseStatement {
         } else if( a == b) {
             System.out.println("a is equal to b");
         } else {
-            System.out.println("");
+            System.out.println("none of the above");
         }
 
     }
