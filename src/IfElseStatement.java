@@ -7,8 +7,16 @@ public class IfElseStatement {
 
         if (a > b) {
             System.out.println("a is greater than b");
+        } else if( a <= b) {
+            System.out.println("a is less than or equal to b");
+        } else if( a >= b) {
+            System.out.println("a is greater than or equal to b");
+        } else if( a != b) {
+            System.out.println("a is not equal to b");
+        } else if( a == b) {
+            System.out.println("a is equal to b");
         } else {
-            System.out.println("a is less than b");
+            System.out.println("");
         }
 
     }
