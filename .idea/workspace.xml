@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="variables in java" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="operators" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697644783618</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="operators">
+      <option name="closed" value="true" />
+      <created>1697902099438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697902099438</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,7 +181,8 @@
     <MESSAGE value="first program" />
     <MESSAGE value="variables in jave" />
     <MESSAGE value="variables in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables in java" />
+    <MESSAGE value="operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
