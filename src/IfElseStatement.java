@@ -4,6 +4,7 @@ public class IfElseStatement {
 
         int a = 10;
         int b = 20;
+        int c = 30;
 
         if (a > b) {
             System.out.println("a is greater than b");
@@ -19,5 +20,15 @@ public class IfElseStatement {
             System.out.println("none of the above");
         }
 
+
+        // nested if
+        if (a < b) {
+            System.out.println("a is less than b");
+            if (c > b) {
+                System.out.println("c is greater than b");
+            }
+        } else {
+            System.out.println("Nothing for you");
+        }
     }
 }
