@@ -38,5 +38,9 @@ public class Operators {
         }
 
         // conditional operators && || ?:
+        if ((a == 10) || (b == 2)) {
+            System.out.println("this is a conditional operator");
+        }
+
     }
 }
