@@ -37,6 +37,6 @@ public class Operators {
             System.out.println("Numbers are not equal");
         }
 
-
+        // conditional operators && || ?:
     }
 }
