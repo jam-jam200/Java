@@ -9,8 +9,8 @@ public class Operators {
         int a = 1;
         int b = 2;
         /*
-        number++; increments the original value(10) by adding 1 before it is used to calculate
-        number--; decrements the original value(10) by subtracting 1 before it is used to calculate
+        post increment: number++; increments the final calculation value by adding one
+        post decrement: number--; decrements the final calculation value by subtracting one
         **/
 
         System.out.println(a + number);
