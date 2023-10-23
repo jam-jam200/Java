@@ -4,5 +4,8 @@ public class TernaryOperator {
 
         int num1 = 3;
         int num2 = 6;
+
+        String result = num2 < num1 ? "Yes, less than" : "No, greater than";
+
     }
 }
