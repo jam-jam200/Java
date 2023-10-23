@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="for loop">
-      <change afterPath="$PROJECT_DIR$/src/BreakAndContinue.java" afterDir="false" />
-    </list>
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="break and continue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,22 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00003" summary="new java training">
-      <option name="closed" value="true" />
-      <created>1697039742800</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1697039742800</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new java training">
-      <option name="closed" value="true" />
-      <created>1697638633982</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1697638633982</updated>
     </task>
     <task id="LOCAL-00005" summary="object and classes">
       <option name="closed" value="true" />
@@ -446,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698095933772</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="break and continue">
+      <option name="closed" value="true" />
+      <created>1698096033320</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1698096033320</updated>
+    </task>
+    <task id="LOCAL-00053" summary="break and continue">
+      <option name="closed" value="true" />
+      <created>1698096156379</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1698096156379</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -459,7 +457,8 @@
     <MESSAGE value="if else statements" />
     <MESSAGE value="ternary operators" />
     <MESSAGE value="for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+    <MESSAGE value="break and continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="break and continue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

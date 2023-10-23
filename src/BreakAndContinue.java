@@ -4,8 +4,10 @@ public class BreakAndContinue {
         for (int i = 1; i <= 10; i++){
 
             if (i == 7) {
-                break;
+//                break;
+                continue;
             }
+
             System.out.println(i);
         }
         System.out.println("Outside loop, final statement");
