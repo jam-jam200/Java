@@ -4,8 +4,8 @@ public class BreakAndContinue {
         for (int i = 1; i <= 10; i++){
 
             if (i == 7) {
-//                break;
-                continue;
+//                break; will stop at condition
+                continue; //will skip the condition and continue to the next line
             }
 
             System.out.println(i);
