@@ -40,6 +40,8 @@ public class SwitchCase {
             case 7:
                 System.out.println("Saturday");
                 break;
+            default:
+                System.out.println("Pick a number within the range of 1-7");
         }
 
 
