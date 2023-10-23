@@ -6,6 +6,6 @@ public class TernaryOperator {
         int num2 = 6;
 
         String result = num2 < num1 ? "Yes, less than" : "No, greater than";
-
+        System.out.println(result);
     }
 }
