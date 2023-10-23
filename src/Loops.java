@@ -15,5 +15,7 @@ public class Loops {
             System.out.println(num++);
         }
 
+        System.out.println("After loop");
+
     }
 }
