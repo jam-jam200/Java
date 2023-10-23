@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="break and continue" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="nested loop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,30 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00005" summary="object and classes">
-      <option name="closed" value="true" />
-      <created>1697641658515</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1697641658515</updated>
-    </task>
-    <task id="LOCAL-00006" summary="object and classes">
-      <option name="closed" value="true" />
-      <created>1697642069414</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1697642069414</updated>
-    </task>
-    <task id="LOCAL-00007" summary="first program">
-      <option name="closed" value="true" />
-      <created>1697642243851</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1697642243851</updated>
     </task>
     <task id="LOCAL-00008" summary="first program">
       <option name="closed" value="true" />
@@ -444,7 +420,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698096156379</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="break and continue">
+      <option name="closed" value="true" />
+      <created>1698096869483</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1698096869483</updated>
+    </task>
+    <task id="LOCAL-00055" summary="break and continue">
+      <option name="closed" value="true" />
+      <created>1698097073903</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1698097073905</updated>
+    </task>
+    <task id="LOCAL-00056" summary="nested loop">
+      <option name="closed" value="true" />
+      <created>1698097146146</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1698097146146</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -458,7 +458,8 @@
     <MESSAGE value="ternary operators" />
     <MESSAGE value="for loop" />
     <MESSAGE value="break and continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="break and continue" />
+    <MESSAGE value="nested loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
