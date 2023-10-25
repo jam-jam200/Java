@@ -8,8 +8,13 @@ public class SingleDimensionArray {
         myIntArray[3] = 40;
         myIntArray[4] = 50;
 
+        System.out.println(myIntArray[3]);
+        System.out.println(myIntArray.length);
+
         // method 2
         int[] myIntArray1 = {10, 20, 30, 40, 50};
+        System.out.println(myIntArray1[3]);
+        System.out.println(myIntArray1.length);
 
 
 
