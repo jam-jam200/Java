@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="nested loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NestedLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00011" summary="first program">
-      <option name="closed" value="true" />
-      <created>1697643585062</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1697643585062</updated>
     </task>
     <task id="LOCAL-00012" summary="variables in jave">
       <option name="closed" value="true" />
@@ -447,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698176281887</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="nested loop">
+      <option name="closed" value="true" />
+      <created>1698231211810</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231211811</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
