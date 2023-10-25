@@ -8,11 +8,12 @@ public class NestedLoop {
             while(j <= 5) {
 
                 for (int x=1; x <= 2; x++){
-                    System.out.println("value of i is: " + i + " value of j is: " + j);
+                    System.out.println("value of i is: " + i + " value of j is: " + j + " value of x is: " + x);
+                    count++;
                 }
                 j++;
 
-                count++;
+
             }
         }
         System.out.println(count);
