@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="nested loop">
-      <change beforePath="$PROJECT_DIR$/src/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NestedLoop.java" afterDir="false" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="single dimensional array">
+      <change beforePath="$PROJECT_DIR$/src/SingleDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleDimensionArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,30 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00013" summary="variables in java">
-      <option name="closed" value="true" />
-      <created>1697644735862</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1697644735862</updated>
-    </task>
-    <task id="LOCAL-00014" summary="variables in java">
-      <option name="closed" value="true" />
-      <created>1697644783618</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1697644783618</updated>
-    </task>
-    <task id="LOCAL-00015" summary="operators">
-      <option name="closed" value="true" />
-      <created>1697902099438</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1697902099438</updated>
     </task>
     <task id="LOCAL-00016" summary="operators">
       <option name="closed" value="true" />
@@ -446,7 +422,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698234555196</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="nested loop">
+      <option name="closed" value="true" />
+      <created>1698234594716</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1698234594716</updated>
+    </task>
+    <task id="LOCAL-00063" summary="nested loop">
+      <option name="closed" value="true" />
+      <created>1698234783052</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1698234783052</updated>
+    </task>
+    <task id="LOCAL-00064" summary="single dimensional array">
+      <option name="closed" value="true" />
+      <created>1698234920932</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1698234920932</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,7 +461,8 @@
     <MESSAGE value="for loop" />
     <MESSAGE value="break and continue" />
     <MESSAGE value="nested loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested loop" />
+    <MESSAGE value="single dimensional array" />
+    <option name="LAST_COMMIT_MESSAGE" value="single dimensional array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
