@@ -12,7 +12,7 @@ public class NestedLoop {
                     count++;
                 }
                 j++;
-
+            //ending
 
             }
         }
