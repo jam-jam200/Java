@@ -6,8 +6,11 @@ public class NestedLoop {
 
             int j = 1;
             while(j <= 5) {
-                System.out.println("value of i is: " + i + " value of j is: " + j);
                 j++;
+
+                for (int x=1; x <= 2; x++){
+                    System.out.println("value of i is: " + i + " value of j is: " + j);
+                }
                 count++;
             }
         }
