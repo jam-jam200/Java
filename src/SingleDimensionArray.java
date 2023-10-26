@@ -14,8 +14,10 @@ public class SingleDimensionArray {
         // method 2
         int[] myIntArray1 = {10, 20, 30, 40, 50};
         System.out.println(myIntArray1[3]);
+        System.out.println(myIntArray1[2]);
         System.out.println(myIntArray1.length);
         //done JU
+
 
 
 
