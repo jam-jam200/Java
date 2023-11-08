@@ -21,6 +21,10 @@ public class SingleDimensionArray {
         for (int j : myIntArray1) {
             System.out.println("this is " + j);
         }
+        int a = 0;
+        while (a < myIntArray1.length){
+            System.out.println("while " + myIntArray1[a]);
+        }
 
 
 
