@@ -3,6 +3,11 @@ public class MultidimensionalArray {
 
         int [][] multiArrray = new int[2][3];
 
-        int[][] multiArray1 = {{}, {}};
+        /*
+        *   if [4][5] === {{1,2,3,4,5}, {1,2,3,4,5}, {1,2,3,4,5}, {1,2,3,4,5}}
+         *
+         * */
+
+        int[][] multiArray1 = {{2,3,4}, {5,6,7}};
     }
 }
