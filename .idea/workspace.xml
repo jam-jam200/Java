@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="single dimensional array">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="multi dimensional array">
+      <change beforePath="$PROJECT_DIR$/src/SingleDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleDimensionArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00024" summary="if else statements">
-      <option name="closed" value="true" />
-      <created>1697907530418</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1697907530418</updated>
     </task>
     <task id="LOCAL-00025" summary="if else statements">
       <option name="closed" value="true" />
@@ -446,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699454735024</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="multi dimensional array">
+      <option name="closed" value="true" />
+      <created>1699456529557</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1699456529557</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -462,7 +462,8 @@
     <MESSAGE value="break and continue" />
     <MESSAGE value="nested loop" />
     <MESSAGE value="single dimensional array" />
-    <option name="LAST_COMMIT_MESSAGE" value="single dimensional array" />
+    <MESSAGE value="multi dimensional array" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi dimensional array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
