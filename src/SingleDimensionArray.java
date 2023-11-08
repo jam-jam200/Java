@@ -18,6 +18,10 @@ public class SingleDimensionArray {
         System.out.println(myIntArray1.length);
         //done JU
 
+        for (int i = 0; i < myIntArray1.length; i++){
+
+        }
+
 
 
 
