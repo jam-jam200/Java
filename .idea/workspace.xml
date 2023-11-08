@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="multi dimensional array">
-      <change beforePath="$PROJECT_DIR$/src/SingleDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleDimensionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultidimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultidimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00028" summary="if else statements">
-      <option name="closed" value="true" />
-      <created>1697908428866</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1697908428866</updated>
     </task>
     <task id="LOCAL-00029" summary="if else statements">
       <option name="closed" value="true" />
@@ -446,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699457229822</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="multi dimensional array">
+      <option name="closed" value="true" />
+      <created>1699457834780</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457834780</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
