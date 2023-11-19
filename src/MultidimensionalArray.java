@@ -8,6 +8,6 @@ public class MultidimensionalArray {
          *
          * */
 
-        int[][] myMultiArray1 = {{2,3,8}, {5,6,7}};
+        int[][] multiArray1 = {{2,3,8}, {5,6,7}};
     }
 }
