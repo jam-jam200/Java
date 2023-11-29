@@ -22,5 +22,12 @@ public class MultidimensionalArray {
 
         int[][] multiArray1 = {{2,3,8}, {5,6,7}};
         System.out.println(multiArray1[1][2] + "two ");
+
+        for(int i = 0; i < multiArray1.length; i++){
+
+            for(int j = 0; j < multiArray1[i].length; j++) {
+
+            }
+        }
     }
 }
