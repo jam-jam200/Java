@@ -3,6 +3,16 @@ public class MultidimensionalArray {
 
         int [][] multiArrray = new int[2][3];
 
+        multiArrray[0][0] = 1;
+        multiArrray[0][1] = 1;
+        multiArrray[0][2] = 1;
+        multiArrray[1][0] = 1;
+        multiArrray[1][1] = 1;
+        multiArrray[1][2] = 1;
+
+
+
+
         /*
         *   if [4][5] === {{1,2,3,4,5}, {1,2,3,4,5}, {1,2,3,4,5}, {1,2,3,4,5}};  i.e 4 X 5 = 20
          *

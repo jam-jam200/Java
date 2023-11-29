@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="multi dimensional array" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="multi dimensional array">
+      <change beforePath="$PROJECT_DIR$/src/MultidimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultidimensionalArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,22 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00033" summary="ternary operators">
-      <option name="closed" value="true" />
-      <created>1698074671069</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1698074671069</updated>
-    </task>
-    <task id="LOCAL-00034" summary="ternary operators">
-      <option name="closed" value="true" />
-      <created>1698074704067</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1698074704067</updated>
     </task>
     <task id="LOCAL-00035" summary="ternary operators">
       <option name="closed" value="true" />
@@ -444,7 +430,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699576254816</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="multi dimensional array">
+      <option name="closed" value="true" />
+      <created>1701273468050</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1701273468050</updated>
+    </task>
+    <task id="LOCAL-00083" summary="multi dimensional array">
+      <option name="closed" value="true" />
+      <created>1701273607514</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1701273607514</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
