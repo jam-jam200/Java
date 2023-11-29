@@ -3,12 +3,12 @@ public class MultidimensionalArray {
 
         int [][] multiArrray = new int[2][3];
 
-        multiArrray[0][0] = 1;
-        multiArrray[0][1] = 1;
-        multiArrray[0][2] = 1;
-        multiArrray[1][0] = 1;
-        multiArrray[1][1] = 1;
-        multiArrray[1][2] = 1;
+        multiArrray[0][0] = 2;
+        multiArrray[0][1] = 3;
+        multiArrray[0][2] = 8;
+        multiArrray[1][0] = 5;
+        multiArrray[1][1] = 6;
+        multiArrray[1][2] = 7;
 
 
 
