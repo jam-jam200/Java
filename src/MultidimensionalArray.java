@@ -27,6 +27,7 @@ public class MultidimensionalArray {
 
             for(int j = 0; j < multiArray1[i].length; j++) {
                 System.out.println("looping through" + multiArray1[i][j]);
+System.out.println("done");
             }
         }
     }
