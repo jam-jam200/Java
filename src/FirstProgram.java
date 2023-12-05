@@ -7,6 +7,7 @@ public class FirstProgram {
         //looking at the difference between string
         String str1 = new String("jess");
         String str2 = "jess";
+        int num =3;
 
         //this is because new String creates a new storage location for that variable
         //if you have another string with the same value String str3="jess", it will be == t str1 because both are pointing to
