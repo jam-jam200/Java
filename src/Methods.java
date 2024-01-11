@@ -6,10 +6,10 @@ public class Methods {
     public String doIt() {
         return "Yes I'll do it";
     }
-    public Char sayNo() {
-        return "Y";
+    public double sayNo() {
+        return 12.45;
     }
-    public Int num() {
+    public int num() {
         return 10;
     }
 }
