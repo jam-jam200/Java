@@ -1,7 +1,8 @@
 public class Methods {
     public static void main(String[] args){
 
-
+        Methods md = new Methods();
+        md.Addition(3,4);
 
     }
     public String doIt() {
