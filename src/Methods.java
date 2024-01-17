@@ -4,6 +4,8 @@ public class Methods {
         Methods md = new Methods();
         md.Addition(3,4);
 
+        System.out.println(md);
+
     }
     public String doIt() {
         return "Yes I'll do it";
