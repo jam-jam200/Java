@@ -9,4 +9,9 @@ public class Variables {
 
         System.out.println(others + name + num + " years old today");
     }
+
+    public String text(){
+        System.out.println("Ain't this new!");
+        return "Ain't it";
+    }
 }

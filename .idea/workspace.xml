@@ -63,14 +63,6 @@
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
     </task>
-    <task id="LOCAL-00060" summary="nested loop">
-      <option name="closed" value="true" />
-      <created>1698231211810</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1698231211811</updated>
-    </task>
     <task id="LOCAL-00061" summary="nested loop">
       <option name="closed" value="true" />
       <created>1698234555196</created>
@@ -455,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705504040236</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="methods">
+      <option name="closed" value="true" />
+      <created>1705505051801</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1705505051801</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
