@@ -1,3 +1,5 @@
+package com.example;
+
 public class FirstProgram {
     public static void main(String[] args){
         //single line comment
