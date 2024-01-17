@@ -1,8 +1,8 @@
 public class Methods {
     public static void main(String[] args){
 
-        Methods md = new Methods();
-       int sum = md.Addition(3,4);
+      //  Methods md = new Methods();
+       //int sum = md.Addition(3,4);
 
        differentThings("Sugar", 9, true);
 
@@ -17,6 +17,8 @@ public class Methods {
         System.out.println(isTrue);
     }
     public static int Addition(int a, int b) {
-        return a + b;
+       int sum = a+b;
+        System.out.println(sum);
+        return sum = a+b;
     }
 }
