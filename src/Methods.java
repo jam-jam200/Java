@@ -7,7 +7,7 @@ public class Methods {
         System.out.println(sum);
 
     }
-    public String doIt() {
+    public void differentThings(String word, ) {
         return "Yes I'll do it";
     }
     public double sayNo() {
