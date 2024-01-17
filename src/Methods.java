@@ -4,6 +4,8 @@ public class Methods {
         Methods md = new Methods();
        int sum = md.Addition(3,4);
 
+       differentThings("Sugar", 9, true);
+
         System.out.println(sum);
 
     }
