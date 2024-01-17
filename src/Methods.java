@@ -7,11 +7,11 @@ public class Methods {
         System.out.println(sum);
 
     }
-    public void differentThings(String word, ) {
-        return "Yes I'll do it";
-    }
-    public double sayNo() {
-        return 12.45;
+    public static void differentThings(String word, int num, boolean isTrue ) {
+
+        System.out.println(word);
+        System.out.println(num);
+        System.out.println(isTrue);
     }
     public int Addition(int a, int b) {
         return a + b;
