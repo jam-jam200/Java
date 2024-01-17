@@ -10,7 +10,7 @@ public class Methods {
     public double sayNo() {
         return 12.45;
     }
-    public int addition(int a, int b) {
+    public int Addition(int a, int b) {
         return a + b;
     }
 }
