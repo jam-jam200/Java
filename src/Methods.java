@@ -2,9 +2,9 @@ public class Methods {
     public static void main(String[] args){
 
         Methods md = new Methods();
-        md.Addition(3,4);
+       int sum = md.Addition(3,4);
 
-        System.out.println(md);
+        System.out.println(sum);
 
     }
     public String doIt() {
