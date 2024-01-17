@@ -6,7 +6,8 @@ public class Methods {
 
        differentThings("Sugar", 9, true);
 
-        System.out.println(sum);
+        // System.out.println(sum);
+        Addition(4,6);
 
     }
     public static void differentThings(String word, int num, boolean isTrue ) {
@@ -15,7 +16,7 @@ public class Methods {
         System.out.println(num);
         System.out.println(isTrue);
     }
-    public int Addition(int a, int b) {
+    public static int Addition(int a, int b) {
         return a + b;
     }
 }
