@@ -1,3 +1,5 @@
+package com.example;
+
 public class SingleDimensionArray {
     public static void main(String[] args){
         // two ways of doing this, method 1:

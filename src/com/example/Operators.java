@@ -1,3 +1,5 @@
+package com.example;
+
 public class Operators {
     public static void main(String[] args) {
 

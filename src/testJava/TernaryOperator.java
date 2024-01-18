@@ -1,3 +1,5 @@
+package testJava;
+
 public class TernaryOperator {
     public static void main(String[] args){
         // variable = (condition) ? TrueExpression : FalseExpression
