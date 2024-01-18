@@ -8,6 +8,8 @@ public class exampleDemo {
         Variables var = new Variables();
         var.text();
 
+
+
     }
 
 }
