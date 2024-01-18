@@ -8,4 +8,8 @@ public class ClassAA {
         ca.publicMethod();
     }
 
+    public void methodAA(){
+        System.out.println("A method from ClassAA");
+    }
+
 }

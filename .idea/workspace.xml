@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/accessModifier/ClassAA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifier/ClassAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/ClassAA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifierB/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifierB/ClassB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00071" summary="single dimensional array">
-      <option name="closed" value="true" />
-      <created>1699205218819</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1699205218819</updated>
     </task>
     <task id="LOCAL-00072" summary="single dimensional array">
       <option name="closed" value="true" />
@@ -459,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705589951664</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="access modifiers">
+      <option name="closed" value="true" />
+      <created>1705590799822</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1705590799822</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
