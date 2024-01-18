@@ -11,10 +11,16 @@ public class FirstProgram {
         String str2 = "jess";
         int num =3;
 
+
         //this is because new String creates a new storage location for that variable
         //if you have another string with the same value String str3="jess", it will be == t str1 because both are pointing to
         //the same memory location unlike new String which is creating a new location afresh.
         System.out.println(str1.equals(str2));
         System.out.println(str1 == str2);
+
+
+        Variables var = new Variables();
+        var.text();
+
     }
 }
