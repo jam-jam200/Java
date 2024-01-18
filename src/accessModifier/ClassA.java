@@ -14,4 +14,12 @@ public class ClassA {
     void defaultMethod(){
         System.out.println("Default Method");
     }
+
+    private void privateMethod(){
+        System.out.println("Private Method");
+    }
+
+    protected void protectedMethod(){
+        System.out.println("Protected Method");
+    }
 }
