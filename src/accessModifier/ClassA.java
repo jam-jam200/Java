@@ -1,6 +1,6 @@
 package accessModifier;
 
-public class ClassA {
+class ClassA {
 
     public int publicVariable = 1;
     int defaultVariable = 2;
