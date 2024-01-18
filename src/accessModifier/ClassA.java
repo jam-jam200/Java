@@ -10,4 +10,8 @@ public class ClassA {
     public void publicMethod(){
         System.out.println("Public Method");
     }
+
+    void defaultMethod(){
+        System.out.println("Default Method");
+    }
 }
