@@ -7,6 +7,12 @@ public class ClassA {
     private int privateVariable = 3;
     protected int protectedVariable = 4;
 
+
+    public static void main(String[] args){
+
+    }
+
+
     public void publicMethod(){
         System.out.println("Public Method");
     }

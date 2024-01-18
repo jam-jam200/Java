@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="methods">
-      <change afterPath="$PROJECT_DIR$/src/accessModifierB/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifierD/ClassD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accessModifier/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/ClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modifier/ClassB.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="access modifiers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,30 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00066" summary="single dimensional array">
-      <option name="closed" value="true" />
-      <created>1698235420439</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1698235420439</updated>
-    </task>
-    <task id="LOCAL-00067" summary="single dimensional array">
-      <option name="closed" value="true" />
-      <created>1698235847676</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1698235847676</updated>
-    </task>
-    <task id="LOCAL-00068" summary="single dimensional array">
-      <option name="closed" value="true" />
-      <created>1698243087488</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1698243087488</updated>
     </task>
     <task id="LOCAL-00069" summary="single dimensional array">
       <option name="closed" value="true" />
@@ -462,7 +432,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705588510961</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="methods">
+      <option name="closed" value="true" />
+      <created>1705589316991</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589316991</updated>
+    </task>
+    <task id="LOCAL-00116" summary="methods">
+      <option name="closed" value="true" />
+      <created>1705589377956</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589377956</updated>
+    </task>
+    <task id="LOCAL-00117" summary="access modifiers">
+      <option name="closed" value="true" />
+      <created>1705589705266</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589705266</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -480,7 +474,8 @@
     <MESSAGE value="single dimensional array" />
     <MESSAGE value="multi dimensional array" />
     <MESSAGE value="methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="methods" />
+    <MESSAGE value="access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="access modifiers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
