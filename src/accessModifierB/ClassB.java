@@ -9,5 +9,6 @@ public class ClassB {
 
         ClassAA caa = new ClassAA();
         caa.methodAA();
+        //at class level either the class is public or it's a default modifier
     }
 }
