@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="methods">
+      <change afterPath="$PROJECT_DIR$/src/accessModifierB/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessModifierD/ClassD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifier/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifier/ClassB.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00065" summary="single dimensional array">
-      <option name="closed" value="true" />
-      <created>1698235148261</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1698235148261</updated>
     </task>
     <task id="LOCAL-00066" summary="single dimensional array">
       <option name="closed" value="true" />
@@ -458,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705587097531</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="methods">
+      <option name="closed" value="true" />
+      <created>1705588510960</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1705588510961</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

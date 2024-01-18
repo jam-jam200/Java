@@ -1,4 +1,4 @@
-package modifier;
+package accessModifierB;
 
 public class ClassB {
 }
