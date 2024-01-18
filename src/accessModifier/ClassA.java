@@ -9,7 +9,11 @@ public class ClassA {
 
 
     public static void main(String[] args){
-
+        ClassA cd = new ClassA();
+        cd.defaultMethod();
+        cd.privateMethod();
+        cd.publicMethod();
+        cd.protectedMethod();
     }
 
 
