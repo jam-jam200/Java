@@ -18,7 +18,7 @@ public class ClassA {
         System.out.println("___________New methods___________");
         cd.addition(2,3);
         cd.subtraction();
-        cd.multiplication(2,3);
+        cd.multiplication(3,2);
         cd.division(4,2);
     }
 
