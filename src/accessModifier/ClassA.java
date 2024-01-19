@@ -16,10 +16,10 @@ public class ClassA {
         cd.protectedMethod();
 
         System.out.println("___________New methods___________");
-        cd.addition(2,3);
+        System.out.println(cd.addition(2,3));
         cd.subtraction();
-        cd.multiplication(3,2);
-        cd.division(4,2);
+        System.out.println(cd.multiplication(3,2));
+        System.out.println(cd.division(4,2));
     }
 
 
