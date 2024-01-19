@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/accessModifier/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifier/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00086" summary="multi dimensional array">
-      <option name="closed" value="true" />
-      <created>1701274983729</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1701274983729</updated>
     </task>
     <task id="LOCAL-00087" summary="multi dimensional array">
       <option name="closed" value="true" />
@@ -461,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705672643181</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="access modifiers">
+      <option name="closed" value="true" />
+      <created>1705673011067</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1705673011067</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
