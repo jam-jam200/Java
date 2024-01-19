@@ -14,6 +14,12 @@ public class ClassA {
         cd.privateMethod();
         cd.publicMethod();
         cd.protectedMethod();
+
+        System.out.println("___________New methods___________");
+        cd.addition(2,3);
+        cd.subtraction();
+        cd.multiplication(2,3);
+        cd.division(4,2);
     }
 
 
@@ -31,7 +37,7 @@ public class ClassA {
     }
 
     protected int division(int a, int b){
-        System.out.println("Public Method");
+        return a / b;
     }
 
 
