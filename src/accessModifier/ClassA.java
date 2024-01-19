@@ -23,14 +23,14 @@ public class ClassA {
     }
 
     void subtraction(){
-       System.out.println();
+       System.out.println("Subtraction was meant to be done here");
     }
 
-    private void multiplication(int a, int b){
-        System.out.println("Public Method");
+    private int multiplication(int a, int b){
+        return a * b;
     }
 
-    protected void division(int a, int b){
+    protected int division(int a, int b){
         System.out.println("Public Method");
     }
 
