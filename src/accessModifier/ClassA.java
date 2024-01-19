@@ -17,6 +17,25 @@ public class ClassA {
     }
 
 
+
+    public int addition(int a, int b){
+        return a + b;
+    }
+
+    void subtraction(){
+       System.out.println();
+    }
+
+    private void multiplication(int a, int b){
+        System.out.println("Public Method");
+    }
+
+    protected void division(int a, int b){
+        System.out.println("Public Method");
+    }
+
+
+
     public void publicMethod(){
         System.out.println("Public Method");
     }
