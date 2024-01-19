@@ -6,6 +6,10 @@ public class ClassAA {
         ca.protectedMethod();
         ca.defaultMethod();
         ca.publicMethod();
+        System.out.println("___________New methods___________");
+        System.out.println(ca.addition(2,3));
+        ca.subtraction();
+        System.out.println(ca.division(4,2));
     }
 
     public void methodAA(){
