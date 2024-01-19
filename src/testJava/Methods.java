@@ -1,7 +1,9 @@
+package testJava;
+
 public class Methods {
     public static void main(String[] args){
 
-      //  Methods md = new Methods();
+      //  testJava.Methods md = new testJava.Methods();
        //int sum = md.Addition(3,4);
 
        differentThings("Sugar", 9, true);
