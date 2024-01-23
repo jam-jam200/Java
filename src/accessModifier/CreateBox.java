@@ -6,6 +6,8 @@ public class CreateBox {
     public static void main(String[] args){
         Common cm = new Common();
 
+        //testu
+
         cm.setBoxDimension(l, b, h);
     }
 }
