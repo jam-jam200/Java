@@ -6,6 +6,9 @@ public class Truck extends VehicleCommon{
         Truck tk  = new Truck();
         tk.Start();
         tk.Stop();
+    }
 
+    public void loadCapacity(){
+        System.out.println("Capacity is loading...");
     }
 }
