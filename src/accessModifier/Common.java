@@ -14,9 +14,9 @@ public class Common {
         length = l;
         return length;
     }
-    public int setLength(int l){
-        length = l;
-        return length;
+    public int setWidth(int w){
+        width = w;
+        return width;
     }
     public int setLength(int l){
         length = l;
