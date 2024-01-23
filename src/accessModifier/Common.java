@@ -27,4 +27,13 @@ public class Common {
         return length;
     }
 
+    public int getWidth(){
+        return width;
+    }
+
+    public int getHeight(){
+        return height;
+    }
+
+
 }
