@@ -7,7 +7,8 @@ public class Common {
     private int height;
 
     public void setBoxDimension(int l, int b, int h) {
-        System.out.println("Dimension box created with dimensions: " + l + " length " + b + " breadth " + h + " height ");
+        int sum = l+b+h;
+        System.out.println("Dimension box created with dimensions: " + l + " length " + b + " breadth " + h + " height " + "multiplied is " + sum);
     }
 
     public int setLength(int l){
