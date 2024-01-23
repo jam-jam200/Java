@@ -22,4 +22,9 @@ public class Common {
         height = h;
         return height;
     }
+
+    public int getLength(){
+        return length;
+    }
+
 }
