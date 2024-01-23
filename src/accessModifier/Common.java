@@ -9,4 +9,17 @@ public class Common {
     public void setBoxDimension(int l, int b, int h) {
         System.out.println("Dimension box created with dimensions: " + l + " length " + b + " breadth " + h + " height ");
     }
+
+    public int setLength(int l){
+        length = l;
+        return length;
+    }
+    public int setLength(int l){
+        length = l;
+        return length;
+    }
+    public int setLength(int l){
+        length = l;
+        return length;
+    }
 }
