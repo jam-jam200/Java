@@ -8,7 +8,15 @@ public class Common {
 
     public void setBoxDimension(int l, int b, int h) {
         int sum = l+b+h;
-        System.out.println("Dimension box created with dimensions: " + l + " length " + b + " breadth " + h + " height " + "multiplied is " + sum);
+
+        if(l >= 0 && b >= 0 && h >= 0) {
+            System.out.println("Dimension box created with dimensions: " + l + " length " + b + " breadth " + h + " height " + "multiplied is " + sum);
+        }
+
+        else {
+            System.out.println("Invalid Parameters provided");
+        }
+
     }
 
     public int setLength(int l){

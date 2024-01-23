@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="access modifiers" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="access modifiers">
+      <change beforePath="$PROJECT_DIR$/src/accessModifier/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifier/CreateBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifier/CreateBox.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,22 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00099" summary="methods">
-      <option name="closed" value="true" />
-      <created>1705500560920</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1705500560920</updated>
-    </task>
-    <task id="LOCAL-00100" summary="methods">
-      <option name="closed" value="true" />
-      <created>1705500600256</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1705500600258</updated>
     </task>
     <task id="LOCAL-00101" summary="methods">
       <option name="closed" value="true" />
@@ -460,7 +447,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706020182850</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="access modifiers">
+      <option name="closed" value="true" />
+      <created>1706020640668</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1706020640668</updated>
+    </task>
+    <task id="LOCAL-00149" summary="access modifiers">
+      <option name="closed" value="true" />
+      <created>1706020694021</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1706020694021</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

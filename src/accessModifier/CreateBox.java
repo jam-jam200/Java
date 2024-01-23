@@ -6,10 +6,9 @@ public class CreateBox {
     public static void main(String[] args){
         Common cm = new Common();
 
-       int l = cm.setLength(10);
-       int b = cm.setWidth(20);
-       int h = cm.setHeight(50);
-       //
+       int l = cm.setLength(0);
+       int b = cm.setWidth(0);
+       int h = cm.setHeight(0);
 
         cm.setBoxDimension(l, b, h);
     }
