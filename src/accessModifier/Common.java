@@ -18,8 +18,8 @@ public class Common {
         width = w;
         return width;
     }
-    public int setLength(int l){
-        length = l;
-        return length;
+    public int setHeight(int h){
+        height = h;
+        return height;
     }
 }
