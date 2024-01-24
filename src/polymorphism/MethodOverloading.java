@@ -15,4 +15,8 @@ public class MethodOverloading {
     public void Login(int num, String p){
         System.out.println("Login successful, using phone number and password");
     }
+
+    public void Login(int s, String p, int t){
+        System.out.println("Login successful, using username, token, and password");
+    }
 }
