@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="inheritance">
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/IvTruckBrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/IvTruckBrand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Car.executor": "Run",
     "Application.ClassA.executor": "Run",
     "Application.ClassAA.executor": "Run",
     "Application.ClassB.executor": "Run",
@@ -71,30 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00112" summary="methods">
-      <option name="closed" value="true" />
-      <created>1705586745735</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1705586745735</updated>
-    </task>
-    <task id="LOCAL-00113" summary="methods">
-      <option name="closed" value="true" />
-      <created>1705587097531</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1705587097531</updated>
-    </task>
-    <task id="LOCAL-00114" summary="methods">
-      <option name="closed" value="true" />
-      <created>1705588510960</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1705588510961</updated>
     </task>
     <task id="LOCAL-00115" summary="methods">
       <option name="closed" value="true" />
@@ -464,7 +442,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706105384860</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1706105589933</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105589933</updated>
+    </task>
+    <task id="LOCAL-00162" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1706105670662</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105670662</updated>
+    </task>
+    <task id="LOCAL-00163" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1706105830600</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105830600</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
