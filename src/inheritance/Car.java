@@ -5,6 +5,6 @@ public class Car extends VehicleCommon{
         Car car = new Car();
         car.Start();
         car.Stop();
-
+        //hierachical is when different classes inherits from one parent class
     }
 }
