@@ -4,7 +4,10 @@ public class MethodOverloading {
     //method overloading is basically same method name but different method signature
     //The method signature is the parameter of the method
 
+
     public static void main(String[] args){
+        MethodOverloading md = new MethodOverloading();
+        md.Login(90, "Watermelon");
 
     }
 
