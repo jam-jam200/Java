@@ -10,8 +10,11 @@ public class MethodOverloading {
         md.Login(90, "Watermelon");
         md.Login(9, "people", 20);
         md.Login("dry", "wet");
-
     }
+
+    //runtime polymorphism only happens when dealing with inheritance
+    //runtime you need to have the same method signature and method name, it's also know
+    //as method overriding, late binding, and dynamic binding
 
     public void Login(String s, String p){
         System.out.println("Login successful, using username and password");
