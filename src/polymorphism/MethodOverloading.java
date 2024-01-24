@@ -12,5 +12,7 @@ public class MethodOverloading {
         System.out.println("Login successful, using username and password");
     }
 
-    public
+    public void Login(int num, String p){
+        System.out.println("Login successful, using phone number and password");
+    }
 }
