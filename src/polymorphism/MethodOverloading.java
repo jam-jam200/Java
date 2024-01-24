@@ -9,6 +9,7 @@ public class MethodOverloading {
         MethodOverloading md = new MethodOverloading();
         md.Login(90, "Watermelon");
         md.Login(9, "people", 20);
+        md.Login("dry", "wet");
 
     }
 
