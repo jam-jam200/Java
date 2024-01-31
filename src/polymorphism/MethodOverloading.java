@@ -1,6 +1,7 @@
 package polymorphism;
 
 public class MethodOverloading {
+    //compile time polymorphism
     //method overloading is basically same method name but different method signature
     //The method signature is the parameter of the method
     //Early binding, static binding, and method overloading are also known as compile time polymorphism

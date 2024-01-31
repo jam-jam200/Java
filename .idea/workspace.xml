@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Car.executor": "Run",
+    "Application.Cat.executor": "Run",
     "Application.ClassA.executor": "Run",
     "Application.ClassAA.executor": "Run",
     "Application.ClassB.executor": "Run",

@@ -5,4 +5,9 @@ public class Cat extends Animal{
         Cat cat = new Cat();
         cat.makeNoise();
     }
+
+    public void makeNoise(){
+        System.out.println("Cat Meows");
+    }
+
 }
