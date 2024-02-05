@@ -8,7 +8,7 @@ public class MethodOverloading {
 
     public static void main(String[] args){
         MethodOverloading md = new MethodOverloading();
-        md.Login(90, "Water");
+        md.Login(90, "Watery");
         md.Login(9, "people", 20);
         md.Login("dry", "wet");
     }
