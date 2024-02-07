@@ -16,7 +16,7 @@ public class Triangle {
 
             @Override
             public void moveShape() {
-
+                System.out.println("Moving Circle");
             }
         };
         s.deleteShape();

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="abstraction" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="abstraction">
+      <change beforePath="$PROJECT_DIR$/src/abstraction/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Triangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     "Application.CreateBox.executor": "Run",
     "Application.IvTruckBrand.executor": "Run",
     "Application.Methods.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "Application.Truck.executor": "Run",
     "Application.exampleDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -72,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00141" summary="access modifiers">
-      <option name="closed" value="true" />
-      <created>1706019664167</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1706019664167</updated>
     </task>
     <task id="LOCAL-00142" summary="access modifiers">
       <option name="closed" value="true" />
@@ -465,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707319858514</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1707320741797</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1707320741797</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
