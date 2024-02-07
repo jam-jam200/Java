@@ -8,6 +8,7 @@ public class Cat extends Animal{
 
     public void makeNoise(){
         System.out.println("Cat Meows");
+        //method overriding
     }
 
 }
