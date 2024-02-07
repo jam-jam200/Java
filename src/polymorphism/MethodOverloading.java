@@ -14,7 +14,7 @@ public class MethodOverloading {
     }
 
     //runtime polymorphism only happens when dealing with inheritance
-    //runtime you need to have the same method signature and method name, it's also know
+    //runtime you need to have the same method signature and method name, it's also known
     //as method overriding, late binding, and dynamic binding
 
     public void Login(String s, String p){
