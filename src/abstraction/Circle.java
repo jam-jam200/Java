@@ -3,6 +3,10 @@ package abstraction;
 public class Circle extends Shapes{
 
     public static void main(String[] args){
+        Circle c = new Circle();
+        c.drawShape();
+        c.colorShape();
+        c.moveShape();
 
     }
 
