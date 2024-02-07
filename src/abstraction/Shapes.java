@@ -1,10 +1,8 @@
 package abstraction;
 
-public class Shapes {
+public abstract class Shapes {
 
-    public void drawShape() {
-        System.out.println("Drawing shape...");
-    }
+    public abstract void drawShape();
 
     public void colorShape(){
         System.out.println("Coloring shape...");
