@@ -11,4 +11,8 @@ public abstract class Shapes {
     public abstract void colorShape();
 
     public abstract void moveShape();
+
+    public void deleteShape(){
+        System.out.println("Deleting shape...");
+    }
 }
