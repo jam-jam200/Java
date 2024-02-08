@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="abstraction">
-      <change afterPath="$PROJECT_DIR$/src/com/example/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter/Shapes.java" afterDir="false" />
-    </list>
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="abstraction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,22 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00143" summary="access modifiers">
-      <option name="closed" value="true" />
-      <created>1706019733827</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1706019733828</updated>
-    </task>
-    <task id="LOCAL-00144" summary="access modifiers">
-      <option name="closed" value="true" />
-      <created>1706019984582</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1706019984582</updated>
     </task>
     <task id="LOCAL-00145" summary="access modifiers">
       <option name="closed" value="true" />
@@ -469,7 +450,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707320776460</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1707322149704</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1707322149704</updated>
+    </task>
+    <task id="LOCAL-00193" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1707322175556</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1707322175556</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
