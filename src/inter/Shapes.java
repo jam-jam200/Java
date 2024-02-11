@@ -4,4 +4,5 @@ package inter;
 
 public class Shapes {
 //I'll be back soon. Here I am
+    public static void
 }
