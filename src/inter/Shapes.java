@@ -3,6 +3,6 @@ package inter;
 //interfaces
 
 public class Shapes {
-//aba wetclass
+//aba wet class
 
 }
