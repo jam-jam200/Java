@@ -2,7 +2,7 @@ package inter;
 
 //interfaces
 
-public class Shapes {
+public interface Shapes {
 //testing
 
 }
