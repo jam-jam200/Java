@@ -7,5 +7,5 @@ public interface Shapes {
 
     public void colorShape();
 
-    p
+    public void moveShape();
 }
