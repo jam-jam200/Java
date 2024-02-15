@@ -74,46 +74,6 @@
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
     </task>
-    <task id="LOCAL-00158" summary="inheritance">
-      <option name="closed" value="true" />
-      <created>1706105277507</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1706105277507</updated>
-    </task>
-    <task id="LOCAL-00159" summary="inheritance">
-      <option name="closed" value="true" />
-      <created>1706105358282</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1706105358282</updated>
-    </task>
-    <task id="LOCAL-00160" summary="inheritance">
-      <option name="closed" value="true" />
-      <created>1706105384860</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1706105384860</updated>
-    </task>
-    <task id="LOCAL-00161" summary="inheritance">
-      <option name="closed" value="true" />
-      <created>1706105589933</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1706105589933</updated>
-    </task>
-    <task id="LOCAL-00162" summary="inheritance">
-      <option name="closed" value="true" />
-      <created>1706105670662</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1706105670662</updated>
-    </task>
     <task id="LOCAL-00163" summary="inheritance">
       <option name="closed" value="true" />
       <created>1706105830600</created>
@@ -466,7 +426,47 @@
       <option name="project" value="LOCAL" />
       <updated>1708023881433</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1708024313337</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024313337</updated>
+    </task>
+    <task id="LOCAL-00208" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1708024318408</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024318409</updated>
+    </task>
+    <task id="LOCAL-00209" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1708024456703</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024456703</updated>
+    </task>
+    <task id="LOCAL-00210" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1708024501708</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024501708</updated>
+    </task>
+    <task id="LOCAL-00211" summary="abstraction">
+      <option name="closed" value="true" />
+      <created>1708024562386</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024562386</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
