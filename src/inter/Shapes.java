@@ -3,6 +3,9 @@ package inter;
 //interfaces
 
 public interface Shapes {
-//testing
+    public void drawShape();
 
+    public void colorShape();
+
+    p
 }
