@@ -14,7 +14,9 @@ public class ConstructorExamples {
         System.out.println("2 integer constructor");
     }
 
-
+    public ConstructorExamples(String s) {
+        System.out.println("string constructor");
+    }
 
 
     public static void main(String[] args) {
