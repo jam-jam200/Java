@@ -5,7 +5,6 @@ public class Circle implements Shapes{
     public static void main(String[] args) {
         Circle c = new Circle();
         c.drawShape();
-        c.clone();
         c.colorShape();
         c.moveShape();
     }
