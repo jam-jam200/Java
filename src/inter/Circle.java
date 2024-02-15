@@ -2,7 +2,7 @@ package inter;
 
 public class Circle implements Shapes{
 
-    public static void main(String[] args) throws CloneNotSupportedException {
+    public static void main(String[] args) {
         Circle c = new Circle();
         c.drawShape();
         c.clone();
