@@ -7,7 +7,7 @@ public class ConstructorExamples {
     }
 
     public ConstructorExamples(int i) {
-        System.out.println("integer constructor in ");
+        System.out.println("integer constructor");
     }
 
     public ConstructorExamples(int i, int y) {
