@@ -7,7 +7,7 @@ public class ConstructorExamples {
     }
 
     public ConstructorExamples(int i) {
-        System.out.println("integer constructor in progress");
+        System.out.println("integer constructor in progr");
     }
 
     public ConstructorExamples(int i, int y) {
