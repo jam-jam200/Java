@@ -11,7 +11,7 @@ public class ConstructorExamples {
     }
 
     public ConstructorExamples(int i, int y) {
-        System.out.println("2 integer constructor");
+        System.out.println("2 integer constructor yes");
     }
 
     public ConstructorExamples(String s) {
