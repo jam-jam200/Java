@@ -25,7 +25,7 @@ public class ConstructorExamples {
         // explicitly trying to define a constructor, and you don't want to call the constructor implicitly
         // you create a constructor with the same name as the class, it'll be a no-argument constructor
         // there's a no return type
-       // ConstructorExamples ce = new ConstructorExamples();
+        ConstructorExamples ce = new ConstructorExamples();
 
 
         }
