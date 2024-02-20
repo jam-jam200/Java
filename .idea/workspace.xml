@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="constructor">
-      <change beforePath="$PROJECT_DIR$/src/constructor/ConstructorExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/ConstructorExamples.java" afterDir="false" />
+    <list default="true" id="b51a8f2d-8658-475f-b769-0b2b8d5c269b" name="Changes" comment="super constructor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassAA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreateBox.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IvTruckBrand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Truck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exampleDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Hp/Desktop/codes/JAVA/Java2/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Car.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.ClassA.executor": "Run",
+    "Application.ClassAA.executor": "Run",
+    "Application.ClassB.executor": "Run",
+    "Application.ConstructorExamples.executor": "Run",
+    "Application.CreateBox.executor": "Run",
+    "Application.IvTruckBrand.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.Truck.executor": "Run",
+    "Application.exampleDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Hp/Desktop/codes/JAVA/Java2/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,30 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00179" summary="polymorphism">
-      <option name="closed" value="true" />
-      <created>1707315718507</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1707315718508</updated>
-    </task>
-    <task id="LOCAL-00180" summary="polymorphism">
-      <option name="closed" value="true" />
-      <created>1707317448640</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1707317448641</updated>
-    </task>
-    <task id="LOCAL-00181" summary="abstraction">
-      <option name="closed" value="true" />
-      <created>1707318070588</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1707318070588</updated>
     </task>
     <task id="LOCAL-00182" summary="abstraction">
       <option name="closed" value="true" />
@@ -468,7 +445,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708372380774</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1708372862374</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1708372862374</updated>
+    </task>
+    <task id="LOCAL-00229" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1708373048522</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1708373048522</updated>
+    </task>
+    <task id="LOCAL-00230" summary="super constructor">
+      <option name="closed" value="true" />
+      <created>1708373519537</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1708373519537</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -491,7 +492,8 @@
     <MESSAGE value="polymorphism" />
     <MESSAGE value="abstraction" />
     <MESSAGE value="constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructor" />
+    <MESSAGE value="super constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="super constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
