@@ -1,5 +1,5 @@
 package examsuper;
 
-//testpublic class SuperClass {
+public class SuperClass {
 
 }
