@@ -35,32 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Car.executor": "Run",
-    "Application.Cat.executor": "Run",
-    "Application.Circle.executor": "Run",
-    "Application.ClassA.executor": "Run",
-    "Application.ClassAA.executor": "Run",
-    "Application.ClassB.executor": "Run",
-    "Application.ConstructorExamples.executor": "Run",
-    "Application.CreateBox.executor": "Run",
-    "Application.IvTruckBrand.executor": "Run",
-    "Application.Methods.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.Truck.executor": "Run",
-    "Application.exampleDemo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Hp/Desktop/codes/JAVA/Java2/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassAA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateBox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IvTruckBrand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Truck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exampleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Hp/Desktop/codes/JAVA/Java2/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,22 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697038147268</updated>
-    </task>
-    <task id="LOCAL-00182" summary="abstraction">
-      <option name="closed" value="true" />
-      <created>1707318704548</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1707318704548</updated>
-    </task>
-    <task id="LOCAL-00183" summary="abstraction">
-      <option name="closed" value="true" />
-      <created>1707318931944</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1707318931944</updated>
     </task>
     <task id="LOCAL-00184" summary="abstraction">
       <option name="closed" value="true" />
@@ -469,7 +453,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708373519537</updated>
     </task>
-    <option name="localTasksCounter" value="231" />
+    <task id="LOCAL-00231" summary="super constructor">
+      <option name="closed" value="true" />
+      <created>1708463521508</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1708463521508</updated>
+    </task>
+    <task id="LOCAL-00232" summary="super constructor">
+      <option name="closed" value="true" />
+      <created>1708463538935</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1708463538935</updated>
+    </task>
+    <option name="localTasksCounter" value="233" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
